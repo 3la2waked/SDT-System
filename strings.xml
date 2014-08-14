@@ -1,0 +1,64 @@
+<string name="enter_first_name">Enter first name!</string>
+<string name="enter_second_name">Enter second name!</string>
+<string name="enter_third_name">Enter third name!</string>
+<string name="enter_family">Enter family!</string>
+<string name="enter_id_card">Enter id card number!</string>
+<string name="enter_age">Enter age!</string>
+<string name="enter_job_title">Enter job title!</string>
+<string name="enter_job_code">Enter job code!</string>
+<string name="enter_hospital_name">Enter hospital name!</string>
+<string name="enter_clinic_name">Enter clinic name!</string>
+
+<string name="long_first_name">First name is too long! maximum is 15 character.</string>
+<string name="long_second_name">Second name is too long! maximum is 15 character.</string>
+<string name="long_third_name">Third name is too long! maximum is 15 character.</string>
+<string name="long_family">Family is too long! maximum is 15 character.</string>
+<string name="long_id_card">ID card number is too long! maximum is ********** character.</string>
+<string name="long_job_title">Job title is too long! maximum is ******** character.</string>
+<string name="long_job_code">Job code is too long! maximum is ******** character.</string>
+<string name="long_hospital_name">Hospital name is too long! maximum is ******* character.</string>
+<string name="long_clinic_name">Clinic name is too long! maximum is ******* character.</string>
+
+
+<string name="enter_first_name">ادخل الاسم الاول!</string>
+<string name="enter_second_name">ادخل اسم الاب!</string>
+<string name="enter_third_name">ادخل اسم الجد!</string>
+<string name="enter_family">ادخل اسم العائلة!</string>
+<string name="enter_id_card">ادخل رقم البطاقة الشخصية!</string>
+<string name="enter_age">ادخل العمر!</string>
+<string name="enter_job_title">ادخل المسمى الوظيفي!</string>
+<string name="enter_job_code">ادخل الرمز الوظيفي!</string>
+<string name="enter_hospital_name">ادخل اسم المستشفى!</string>
+<string name="enter_clinic_name">ادخل اسم العيادة!</string>
+
+<string name="long_first_name">الاسم الاول طويل جدا! يجب ان لا يزيد عن 15 حرف</string>
+<string name="long_second_name">اسم الاب طويل جدا! يجب ان لا يزيد عن 15 حرف</string>
+<string name="long_third_name">اسم الجد طويل جدا! يجب ان لا يزيد عن 15 حرف</string>
+<string name="long_family">اسم العائلة طويل جدا! يجب ان لا يزيد15 حرف</string>
+<string name="long_id_card">رقم البطاقة الشخصية طويل جدا! يجب ان لا يزيد عن ****** حرف</string>
+<string name="long_job_title">المسمى الوظيفي طويل جدا! يجب ان لا يزيد عن ****** حرف</string>
+<string name="long_job_code">الرمز الوظيفي طويل جدا! يجب ان لا يزيد عن ****** حرف</string>
+<string name="long_hospital_name">اسم المستشفى طويل جدا! يجب ان لا يزيد عن ****** حرف</string>
+<string name="long_clinic_name">اسم العيادة طويل جدا! يجب ان لا يزيد عن ****** حرف</string>
+
+
+(getResources.getString(R.string.enter_first_name)).toString()
+(getResources.getString(R.string.enter_second_name)).toString()
+(getResources.getString(R.string.enter_third_name)).toString()
+(getResources.getString(R.string.enter_family)).toString()
+(getResources.getString(R.string.enter_id_card)).toString()
+(getResources.getString(R.string.enter_age)).toString()
+(getResources.getString(R.string.enter_job_title)).toString()
+(getResources.getString(R.string.enter_job_code)).toString()
+(getResources.getString(R.string.enter_hospital_name)).toString()
+(getResources.getString(R.string.enter_clinic_name)).toString()
+
+(getResources.getString(R.string.long_first_name)).toString()
+(getResources.getString(R.string.long_second_name)).toString()
+(getResources.getString(R.string.long_third_name)).toString()
+(getResources.getString(R.string.long_family)).toString()
+(getResources.getString(R.string.long_id_card)).toString()
+(getResources.getString(R.string.long_job_title)).toString()
+(getResources.getString(R.string.long_job_code)).toString()
+(getResources.getString(R.string.long_hospital_name)).toString()
+(getResources.getString(R.string.long_clinic_name)).toString()
